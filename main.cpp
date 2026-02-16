@@ -1,9 +1,3 @@
-/*
-CSE 310 Hash Function DIY Contest
-Instructor: Yiran "Lawrence" Luo
-Your name(s): Aivar Zhubandykov
-Your team alias: Yerdaulet Dauletkali
-*/
 
 #include <iostream>
 #include <iomanip>
