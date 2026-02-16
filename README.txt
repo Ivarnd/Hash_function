@@ -1,6 +1,4 @@
-Project: CSE 310 Hash Function Project
-
-Made by 2 people: Aivar Zhubandykov
+Hash Function Project
 
 Functionality of the program:
 
